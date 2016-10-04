@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4thVision.vive.one.CSharp", "4thVision.vive.one.CSharp.csproj", "{24BBCB93-DFA6-B83F-C0EC-A7DBF0158CEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4thVision.vive.one.CSharp.Editor", "4thVision.vive.one.CSharp.Editor.csproj", "{AC91659B-32AD-B3C5-92F6-2411D17CE5B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24BBCB93-DFA6-B83F-C0EC-A7DBF0158CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24BBCB93-DFA6-B83F-C0EC-A7DBF0158CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24BBCB93-DFA6-B83F-C0EC-A7DBF0158CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24BBCB93-DFA6-B83F-C0EC-A7DBF0158CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC91659B-32AD-B3C5-92F6-2411D17CE5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC91659B-32AD-B3C5-92F6-2411D17CE5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC91659B-32AD-B3C5-92F6-2411D17CE5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC91659B-32AD-B3C5-92F6-2411D17CE5B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
